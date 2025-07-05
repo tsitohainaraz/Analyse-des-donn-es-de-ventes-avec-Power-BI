@@ -1,8 +1,11 @@
 # Analyse-des-donn-es-de-ventes-avec-Power-BI
 RAPPORT POWER BI Tsitohaina RAZAFINDRAJOA
+
 📊 Analyse des données de ventes avec Power BI
 
 Ce projet présente un tableau de bord interactif réalisé avec Power BI, à partir d’un fichier Excel contenant des données de ventes. Il permet d'explorer les performances commerciales de manière visuelle et intuitive.
+
+
 🎯 Objectif
 
 Offrir une vue d’ensemble claire des ventes, avec la possibilité de filtrer et d’explorer les données selon différents axes (pays, segment, produit).
